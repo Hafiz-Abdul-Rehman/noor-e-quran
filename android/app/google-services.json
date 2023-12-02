@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "953903519632",
+    "project_id": "noor-e-quran",
+    "storage_bucket": "noor-e-quran.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953903519632:android:8f70378aca753b6f6e4515",
+        "android_client_info": {
+          "package_name": "com.hafiz.noor_e_quran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953903519632-l5v04qve95cgi208qnpqd1s5ogtovbuj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hafiz.noor_e_quran",
+            "certificate_hash": "6bb8d4ddbc2aa60b1a5ee56774a3ac1c9ee5bd8b"
+          }
+        },
+        {
+          "client_id": "953903519632-2v2gl5o3k9r3jmakqqhlbl8i3qbo8fd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr_dACybfX4u5GQtGfqb0SGQp5A-Z7Zm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953903519632-2v2gl5o3k9r3jmakqqhlbl8i3qbo8fd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
